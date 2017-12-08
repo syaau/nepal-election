@@ -1,10 +1,14 @@
 {
   "name": "nepal-election",
   "version": "1.0.0",
-  "description": "",
+  "description": "Nepal Election Tools",
   "main": "index.js",
   "scripts": {
     "test": "jest '.*.spec.js'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syaau/nepal-election.git"
   },
   "author": "Ranjan Shrestha",
   "license": "MIT",
